@@ -87,16 +87,16 @@ plt.title("Customer Segments")
 ### data.isnull().sum()
 ![image](https://github.com/Pravinrajj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117917674/bf25fca5-8621-4b90-8e17-ec3503188ea2)
 
-### Graph
+### Elbow method Graph
 ![image](https://github.com/Pravinrajj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117917674/8a3551d3-c8e7-42d0-8eeb-bd8d81da0f9e)
 
-### K-means
+### K-means Cluster
 ![image](https://github.com/Pravinrajj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117917674/79b78b50-5c07-404d-b4af-ae5c30f4fed0)
 
 ### y_pred
 ![image](https://github.com/Pravinrajj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117917674/eae6adc9-6d9e-46c3-9483-c802d1c7892c)
 
-### Customer segments
+### Customer segments Graph
 ![image](https://github.com/Pravinrajj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117917674/8fe78e9b-2ee9-4304-8d88-d88c51204b7e)
 
 
